@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WikiSearchApp</string>
+    <string name="title_activity_wiki_search_content">WikiSearchContent</string>
+    <string name="search_hint">search</string>
+</resources>
